@@ -1,47 +1,19 @@
-# Foreword
+# 前言
 
-The Rust programming language has come a long way in a few short years, from
-its creation and incubation by a small and nascent community of enthusiasts, to
-becoming one of the most loved and in-demand programming languages in the
-world. Looking back, it was inevitable that the power and promise of Rust would
-turn heads and gain a foothold in systems programming. What was not inevitable
-was the global growth in interest and innovation that permeated through open
-source communities and catalyzed wide-scale adoption across industries.
+> 文件：[foreword.md](https://github.com/gi-b716/book/blob/cn/src/foreword.md)\
+> 提交哈希：`f660f341887c8bbcd6c24fbfdf5d2a262f523965`\
+> 译文更新日期：2025/11/8
 
-At this point in time, it is easy to point to the wonderful features that Rust
-has to offer to explain this explosion in interest and adoption. Who doesn’t
-want memory safety, *and* fast performance, *and* a friendly compiler, *and*
-great tooling, among a host of other wonderful features? The Rust language you
-see today combines years of research in systems programming with the practical
-wisdom of a vibrant and passionate community. This language was designed with
-purpose and crafted with care, offering developers a tool that makes it easier
-to write safe, fast, and reliable code.
+Rust 编程语言在短短几年内已经走过了漫长的道路，从由一小群新兴爱好者社区的创建和孵化，到成为世界上最受欢迎和最受欢迎的编程语言之一。回顾过去，Rust 的强大功能和前景必然会引起关注并在系统编程领域站稳脚跟。而不可避免的是，全球对 Rust 的兴趣和创新的增长渗透到开源社区，并推进了各行业的大规模采用。
 
-But what makes Rust truly special is its roots in empowering you, the user, to
-achieve your goals. This is a language that wants you to succeed, and the
-principle of empowerment runs through the core of the community that builds,
-maintains, and advocates for this language. Since the previous edition of this
-definitive text, Rust has further developed into a truly global and trusted
-language. The Rust Project is now robustly supported by the Rust Foundation,
-which also invests in key initiatives to ensure that Rust is secure, stable,
-and sustainable.
+在此时此刻，很容易指出 Rust 提供的众多精彩特性来解释这种兴趣和采用的爆炸式增长。谁不想要内存安全、快速的性能、友好的编译器、出色的工具，以及其他许多精彩的特性呢？你今天看到的 Rust 语言结合了系统编程领域多年的研究和一个充满活力和热情的社区的实践智慧。这门语言是有目的地设计和精心打造的，为开发者提供了一个更容易编写安全、快速和可靠代码的工具。
 
-This edition of *The Rust Programming Language* is a comprehensive update,
-reflecting the language’s evolution over the years and providing valuable new
-information. But it is not just a guide to syntax and libraries—it’s an
-invitation to join a community that values quality, performance, and thoughtful
-design. Whether you’re a seasoned developer looking to explore Rust for the
-first time or an experienced Rustacean looking to refine your skills, this
-edition offers something for everyone.
+但真正让 Rust 与众不同的是它的根基在于赋能你——用户——实现你的目标。这是一门希望你成功的语言，赋能的原则贯穿于构建、维护和倡导这门语言的社区核心。自本权威文本的上一版以来，Rust 已经进一步发展成为一门真正全球化和值得信赖的语言。Rust 项目现在得到 Rust 基金会的有力支持，该基金会还投资于关键举措，以确保 Rust 安全、稳定和可持续。
 
-The Rust journey has been one of collaboration, learning, and iteration. The
-growth of the language and its ecosystem is a direct reflection of the vibrant,
-diverse community behind it. The contributions of thousands of developers, from
-core language designers to casual contributors, are what make Rust such a
-unique and powerful tool. By picking up this book, you’re not just learning a
-new programming language—you’re joining a movement to make software better,
-safer, and more enjoyable to work with.
+本版《Rust 程序设计语言》是一次全面更新，反映了语言多年来的演变，并提供了有价值的新信息。但它不仅仅是语法和库的指南——它是加入一个重视质量、性能和深思熟虑的设计的社区的邀请。无论你是希望首次探索 Rust 的经验丰富的开发者，还是希望完善技能的经验丰富的 Rustacean，本版都为每个人提供了一些东西。
 
-Welcome to the Rust community!
+Rust 之旅是一段协作、学习和迭代的旅程。语言及其生态系统的增长直接反映了其背后充满活力、多元化的社区。从核心语言设计者到临时贡献者，数千名开发者的贡献使 Rust 成为如此独特而强大的工具。拿起这本书，你不仅仅是在学习一门新的编程语言——你正在加入一场让软件更好、更安全、更愉快的运动。
 
-- Bec Rumbul, Executive Director of the Rust Foundation
+欢迎来到 Rust 社区！
+
+- Bec Rumbul，Rust 基金会执行董事

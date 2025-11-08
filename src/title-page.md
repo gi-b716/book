@@ -1,6 +1,6 @@
 # Rust 程序设计语言
 
-> 文件：[title-page.md](https://github.com/gi-b716/book/blob/main/src/title-page.md)\
+> 文件：[title-page.md](https://github.com/gi-b716/book/blob/cn/src/title-page.md)\
 > 提交哈希：`f660f341887c8bbcd6c24fbfdf5d2a262f523965`\
 > 译文更新日期：2025/11/8
 
