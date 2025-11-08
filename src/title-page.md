@@ -1,30 +1,24 @@
-# The Rust Programming Language
+# Rust 程序设计语言
 
-_by Steve Klabnik, Carol Nichols, and Chris Krycho, with contributions from the
-Rust Community_
+> 文件：[title-page.md](https://github.com/gi-b716/book/blob/main/src/title-page.md)\
+> 提交哈希：`f660f341887c8bbcd6c24fbfdf5d2a262f523965`\
+> 译文更新日期：2025/11/8
 
-This version of the text assumes you’re using Rust 1.90.0 (released 2025-09-18)
-or later with `edition = "2024"` in the *Cargo.toml* file of all projects to
-configure them to use Rust 2024 Edition idioms. See the [“Installation” section
-of Chapter 1][install]<!-- ignore --> for instructions on installing or
-updating Rust, and see [Appendix E][appendix-e]<!-- ignore --> for information
-on editions.
+_作者：Steve Klabnik、Carol Nichols 和 Chris Krycho，与 Rust 社区_
 
-The HTML format is available online at
-[https://doc.rust-lang.org/stable/book/](https://doc.rust-lang.org/stable/book/)
-and offline with installations of Rust made with `rustup`; run `rustup doc
---book` to open.
+本书假设你使用的是 Rust 1.90.0（发布于 2025-09-18）或更高版本，并在所有项目的 _Cargo.toml_ 文件中设置 `edition = "2024"` 以使用 Rust 2024 Edition。有关安装或更新 Rust 的说明，请参阅[第 1 章的“安装”部分][install]<!-- ignore -->；有关版本的信息，请参阅[附录 E][appendix-e]<!-- ignore -->。
 
-Several community [translations] are also available.
+HTML 格式可在线访问：
+[https://doc.rust-lang.org/stable/book/](https://doc.rust-lang.org/stable/book/)；
+也可以通过 `rustup` 安装的 Rust 离线访问，运行 `rustup doc --book` 打开。
 
-This text is available in [paperback and ebook format from No Starch
-Press][nsprust].
+还有一些社区的[翻译版本][translations]。
+
+本书也有由 No Starch Press 出版的[平装版和电子书版本][nsprust]。
 
 [install]: ch01-01-installation.html
 [appendix-e]: appendix-05-editions.html
 [nsprust]: https://nostarch.com/rust-programming-language-3rd-edition
 [translations]: appendix-06-translation.html
 
-> **🚨 Want a more interactive learning experience? Try out a different version
-> of the Rust Book, featuring: quizzes, highlighting, visualizations, and
-> more**: <https://rust-book.cs.brown.edu>
+> **🚨 想要更具有互动性的学习体验？试试不同版本的 Rust Book，包含：测验、高亮、可视化等功能**: <https://rust-book.cs.brown.edu>

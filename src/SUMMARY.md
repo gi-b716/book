@@ -1,6 +1,6 @@
 # The Rust Programming Language
 
-[The Rust Programming Language](title-page.md)
+[Rust 程序设计语言](title-page.md)
 [Foreword](foreword.md)
 [Introduction](ch00-00-introduction.md)
 
