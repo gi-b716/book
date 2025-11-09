@@ -28,7 +28,7 @@ $ curl --proto '=https' --tlsv1.2 https://sh.rustup.rs -sSf | sh
 Rust is installed now. Great!
 ```
 
-你还需要一个链接器，这是 Rust 用来将其编译输出合并到一个文件中的程序。你可能已经有一个了。如果遇到链接器错误，你应该安装一个 C 编译器，它通常会包含一个链接器。C 编译器也很有用，因为一些常见的 Rust 包依赖于 C 代码，需要 C 编译器。
+你还需要一个 _链接器_，这是 Rust 用来将其编译输出合并到一个文件中的程序。你可能已经有一个了。如果遇到链接器错误，你应该安装一个 C 编译器，它通常会包含一个链接器。C 编译器也很有用，因为一些常见的 Rust 包依赖于 C 代码，需要 C 编译器。
 
 在 macOS 上，你可以通过运行以下命令获得 C 编译器：
 
@@ -45,7 +45,7 @@ Linux 用户通常应该根据其发行版的文档安装 GCC 或 Clang。例如
 [https://rust-lang.github.io/rustup/installation/windows-msvc.html][msvc]<!--
 ignore -->。
 
-本书使用在 cmd.exe 和 PowerShell 中都能运行的命令。如果有差异，我们会说明应该使用哪一个。
+本书使用在 _cmd.exe_ 和 PowerShell 中都能运行的命令。如果有差异，我们会说明应该使用哪一个。
 
 ### 故障排除
 
