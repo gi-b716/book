@@ -5,7 +5,7 @@
 [引言](ch00-00-introduction.md)
 
 - [入门指南](ch01-00-getting-started.md)
-  - [Installation](ch01-01-installation.md)
+  - [安装](ch01-01-installation.md)
   - [Hello, World!](ch01-02-hello-world.md)
   - [Hello, Cargo!](ch01-03-hello-cargo.md)
 
