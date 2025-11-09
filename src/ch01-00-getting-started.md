@@ -1,7 +1,7 @@
 # 入门指南
 
 > 文件：[ch01-00-getting-started.md](https://github.com/gi-b716/book/blob/cn/src/ch01-00-getting-started.md)\
-> 提交哈希：`f660f341887c8bbcd6c24fbfdf5d2a262f523965`\
+> 提交哈希：`3a30e4c1fbe641afc066b3af9eb01dcdf5ed8b24`\
 > 译文更新日期：2025/11/8
 
 让我们开始你的 Rust 之旅！有很多东西要学，但每段旅程总有起点。在本章中，我们将讨论：

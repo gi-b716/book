@@ -1,7 +1,7 @@
 # 引言
 
 > 文件：[ch00-00-introduction.md](https://github.com/gi-b716/book/blob/cn/src/ch00-00-introduction.md)\
-> 提交哈希：`f660f341887c8bbcd6c24fbfdf5d2a262f523965`\
+> 提交哈希：`112ceaedfa51d79327e33057c9806d0ea370004a`\
 > 译文更新日期：2025/11/8
 
 > 注意：本书的这个版本与 [No Starch Press][nsp] 出版的[《Rust 程序设计语言》][nsprust]印刷版和电子书版本相同。

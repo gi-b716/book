@@ -1,7 +1,7 @@
 ## Hello, World!
 
 > 文件：[ch01-02-hello-world.md](https://github.com/gi-b716/book/blob/cn/src/ch01-02-hello-world.md)\
-> 提交哈希：`f660f341887c8bbcd6c24fbfdf5d2a262f523965`\
+> 提交哈希：`d46785983db2d2f94ca3d571db2cfbad0f5ad3e6`\
 > 译文更新日期：2025/11/9
 
 现在你已经安装了 Rust，是时候编写你的第一个 Rust 程序了。

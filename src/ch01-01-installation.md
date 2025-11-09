@@ -1,7 +1,7 @@
 ## 安装
 
 > 文件：[ch01-01-installation.md](https://github.com/gi-b716/book/blob/cn/src/ch01-01-installation.md)\
-> 提交哈希：`f660f341887c8bbcd6c24fbfdf5d2a262f523965`\
+> 提交哈希：`369386fefd1138cbdf50ae628bae1ffc4ffce669`\
 > 译文更新日期：2025/11/9
 
 第一步是安装 Rust。我们将通过 `rustup` 下载 Rust，这是一个用于管理 Rust 版本和相关工具的命令行工具。你需要互联网连接才能下载。
